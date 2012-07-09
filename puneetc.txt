@@ -1,2 +1,2 @@
-Git is awesome!
+My feature changes to Git is awesome!
 And fun!
